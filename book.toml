@@ -4,3 +4,7 @@ language = "bg"
 multilingual = false
 src = "src"
 title = "Сборник за Космическа Конфереция - Пловдив (2023)"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
