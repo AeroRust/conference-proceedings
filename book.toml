@@ -1,6 +1,6 @@
 [book]
-authors = ["Лъчезар Лечев <hi@lechev.space>"]
-language = "en"
+authors = ["The AeroRust community <aerospace.rust@gmail.com>"]
+language = "bg"
 multilingual = false
 src = "src"
 title = "Сборник за Космическа Конфереция - Пловдив (2023)"
