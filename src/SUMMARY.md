@@ -1,4 +1,4 @@
 # Summary
 
-- [Комитети](./committees.md)
+[Комитети](./committees.md)
 - [Участие](./participation.md)

@@ -3,8 +3,14 @@ authors = ["The AeroRust community <aerospace.rust@gmail.com>"]
 language = "bg"
 multilingual = false
 src = "src"
+
 title = "Сборник за Космическа Конфереция - Пловдив (2023)"
+
+[build]
+build-dir = "proceedings"
+
 
 [output.html]
 default-theme = "light"
 preferred-dark-theme = "navy"
+extra-watch-dirs = ["documents"]

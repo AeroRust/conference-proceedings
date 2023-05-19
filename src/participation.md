@@ -31,11 +31,11 @@
 
 Моля попълнетe регистрационна форма: [https://forms.gle/mX2rSjt7hozDY2ts7][form-2023]
 
-Указания за оформяне на доклада в пълен текст: [Paper_guidance_SCP_2023.doc](../Paper_guidance_SCP_2023.doc)
+Указания за оформяне на доклада в пълен текст: [Paper_guidance_SCP_2023.doc](../documents/Paper_guidance_SCP_2023.doc)
 
 Доклади, които не са оформени според указанията или не са изпратени в срок няма да бъдат публикувани - **01.06.2023**
 
-Шаблон за оформяне на доклада: [Tempate_Paper_SCP_2023.doc](../Tempate_Paper_SCP_2023.doc)
+Шаблон за оформяне на доклада: [Tempate_Paper_SCP_2023.doc](./documents/Tempate_Paper_SCP_2023.doc)
 
 
 [form-2023]: https://forms.gle/mX2rSjt7hozDY2ts7
